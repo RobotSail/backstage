@@ -3451,8 +3451,8 @@ __metadata:
     "@types/node": ^16.11.26
     "@types/react": ^16.13.1 || ^17.0.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -3994,8 +3994,8 @@ __metadata:
     zen-observable: ^0.10.0
     zod: ^3.21.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -4172,8 +4172,8 @@ __metadata:
     zen-observable: ^0.10.0
     zod: ^3.21.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -4203,8 +4203,8 @@ __metadata:
     prop-types: ^15.7.2
     zen-observable: ^0.10.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -4260,8 +4260,8 @@ __metadata:
     react-use: ^17.2.4
     zen-observable: ^0.10.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -4353,8 +4353,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -4467,8 +4467,8 @@ __metadata:
     react-use: ^17.2.4
     remark-gfm: ^3.0.1
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -4519,8 +4519,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -4551,8 +4551,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -4581,8 +4581,8 @@ __metadata:
     react-ga4: ^2.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -4614,8 +4614,8 @@ __metadata:
     react-ga: ^3.3.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -4644,8 +4644,8 @@ __metadata:
     qs: ^6.10.1
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -4659,8 +4659,8 @@ __metadata:
     "@types/react": ^16.13.1 || ^17.0.0
     grpc-docs: ^1.1.2
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -4699,8 +4699,8 @@ __metadata:
     react-use: ^17.2.4
     swagger-ui-react: ^4.11.1
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -4730,8 +4730,8 @@ __metadata:
     react-use: ^17.2.4
     use-deep-compare-effect: ^1.8.1
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -4911,8 +4911,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -4975,8 +4975,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -5034,8 +5034,8 @@ __metadata:
     cross-fetch: ^3.1.5
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -5087,8 +5087,8 @@ __metadata:
     react-hook-form: ^7.13.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -5137,8 +5137,8 @@ __metadata:
     react-use: ^17.2.4
     recharts: ^2.5.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -5577,8 +5577,8 @@ __metadata:
     qs: ^6.9.4
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -5608,8 +5608,8 @@ __metadata:
     node-fetch: ^2.6.7
     winston: ^3.2.1
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -5651,8 +5651,8 @@ __metadata:
     react-use: ^17.2.4
     yaml: ^2.0.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -5751,8 +5751,8 @@ __metadata:
     yaml: ^2.0.0
     zen-observable: ^0.10.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -5794,8 +5794,8 @@ __metadata:
     react-use: ^17.2.4
     zen-observable: ^0.10.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -5814,8 +5814,8 @@ __metadata:
     luxon: ^3.0.0
     p-limit: ^4.0.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -5843,8 +5843,8 @@ __metadata:
     react-use: ^17.3.1
     recharts: ^2.5.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -5880,8 +5880,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -5914,8 +5914,8 @@ __metadata:
     qs: ^6.9.4
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -5949,8 +5949,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -6016,8 +6016,8 @@ __metadata:
     react-use: ^17.2.4
     recharts: ^2.5.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -6049,8 +6049,8 @@ __metadata:
     rc-progress: 3.4.1
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -6084,8 +6084,8 @@ __metadata:
     react-use: ^17.2.4
     zen-observable: ^0.10.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -6140,8 +6140,8 @@ __metadata:
     regression: ^2.0.1
     yup: ^0.32.9
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -6172,8 +6172,8 @@ __metadata:
     react-use: ^17.2.4
   peerDependencies:
     "@backstage/plugin-catalog-react": "workspace:^"
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -6240,8 +6240,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -6282,8 +6282,8 @@ __metadata:
     react-use: ^17.2.4
     yaml: ^2.0.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -6468,8 +6468,8 @@ __metadata:
     cross-fetch: ^3.1.5
     msw: ^1.0.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -6508,8 +6508,8 @@ __metadata:
     pluralize: ^8.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -6541,8 +6541,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -6576,8 +6576,8 @@ __metadata:
     p-limit: ^3.0.2
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -6616,8 +6616,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -6646,8 +6646,8 @@ __metadata:
     cross-fetch: ^3.1.5
     msw: ^1.0.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -6683,8 +6683,8 @@ __metadata:
     react-use: ^17.2.4
     recharts: ^2.5.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -6718,8 +6718,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -6755,8 +6755,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -6791,8 +6791,8 @@ __metadata:
     octokit: ^2.0.4
     react-use: ^17.4.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -6826,8 +6826,8 @@ __metadata:
     p-limit: ^4.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -6857,8 +6857,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -6895,8 +6895,8 @@ __metadata:
     qs: ^6.10.1
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -6929,8 +6929,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -6985,8 +6985,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -7060,8 +7060,8 @@ __metadata:
     react-use: ^17.2.4
     zod: ~3.21.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -7098,8 +7098,8 @@ __metadata:
     prop-types: ^15.7.2
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -7170,8 +7170,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -7228,8 +7228,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -7332,8 +7332,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -7392,8 +7392,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -7467,8 +7467,8 @@ __metadata:
     react-use: ^17.2.4
     slugify: ^1.6.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -7504,8 +7504,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -7529,8 +7529,8 @@ __metadata:
     cross-fetch: ^3.1.5
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -7559,8 +7559,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -7591,8 +7591,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -7624,8 +7624,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -7663,8 +7663,8 @@ __metadata:
     qs: ^6.10.1
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -7698,8 +7698,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -7753,8 +7753,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -7841,8 +7841,8 @@ __metadata:
     react-use: ^17.2.4
     swr: ^2.0.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -7924,8 +7924,8 @@ __metadata:
     react-use: ^17.2.4
     swr: ^2.0.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -7983,7 +7983,7 @@ __metadata:
     msw: ^1.0.1
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -8042,8 +8042,8 @@ __metadata:
     react-sparklines: ^1.7.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -8311,8 +8311,8 @@ __metadata:
     zod: ^3.21.4
     zod-to-json-schema: ^3.20.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -8380,8 +8380,8 @@ __metadata:
     zod: ^3.21.4
     zod-to-json-schema: ^3.20.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -8579,8 +8579,8 @@ __metadata:
     qs: ^6.9.4
     react-use: ^17.3.2
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -8620,8 +8620,8 @@ __metadata:
     qs: ^6.9.4
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -8657,8 +8657,8 @@ __metadata:
     react-sparklines: ^1.7.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -8692,8 +8692,8 @@ __metadata:
     uuid: ^8.3.2
     zen-observable: ^0.10.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -8728,8 +8728,8 @@ __metadata:
     "@backstage/core-plugin-api": "workspace:^"
     "@types/react": ^16.13.1 || ^17.0.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -8763,8 +8763,8 @@ __metadata:
     rc-progress: 3.4.1
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -8798,8 +8798,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -8850,8 +8850,8 @@ __metadata:
     qs: ^6.9.4
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -8880,8 +8880,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -8994,8 +8994,8 @@ __metadata:
     qs: ^6.9.4
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -9029,8 +9029,8 @@ __metadata:
     prop-types: ^15.7.2
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -9065,8 +9065,8 @@ __metadata:
     react-use: ^17.2.4
     testing-library__dom: ^7.29.4-beta.1
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -9137,8 +9137,8 @@ __metadata:
     photoswipe: ^5.3.7
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -9211,8 +9211,8 @@ __metadata:
     react-helmet: 6.1.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -9262,8 +9262,8 @@ __metadata:
     react-helmet: 6.1.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -9320,8 +9320,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -9377,8 +9377,8 @@ __metadata:
     react-use: ^17.2.4
     zen-observable: ^0.10.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -9437,8 +9437,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -9472,8 +9472,8 @@ __metadata:
     react-use: ^17.2.4
     recharts: ^2.5.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -9555,8 +9555,8 @@ __metadata:
     msw: ^1.0.0
     zen-observable: ^0.10.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -9569,8 +9569,8 @@ __metadata:
     "@material-ui/core": ^4.12.2
     "@types/react": ^16.13.1 || ^17.0.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
   languageName: unknown
   linkType: soft
 
@@ -9595,8 +9595,8 @@ __metadata:
     "@testing-library/react-hooks": ^8.0.0
     "@types/react": ^16.13.1 || ^17.0.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -11601,8 +11601,8 @@ __metadata:
     "@backstage/plugin-catalog-react": "workspace:^"
     "@types/react": ^16.13.1 || ^17.0.0
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
@@ -11668,8 +11668,8 @@ __metadata:
     msw: ^1.0.0
     react-use: ^17.2.4
   peerDependencies:
-    react: ^16.13.1 || ^17.0.0
-    react-dom: ^16.13.1 || ^17.0.0
+    react: ^17.0.0
+    react-dom: ^17.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
   languageName: unknown
   linkType: soft
